@@ -1,2 +1,2 @@
 #!/bin/bash
-echo $((hexadecimal$NUM))
+echo $((hexadecimal#$NUM))
